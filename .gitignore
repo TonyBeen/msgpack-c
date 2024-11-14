@@ -49,3 +49,6 @@ Makefile
 /test/streaming_c
 /test/version
 /test/zone
+
+build
+.vscode
